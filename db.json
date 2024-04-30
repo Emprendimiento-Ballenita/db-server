@@ -39,22 +39,22 @@
     },
     {
       "id": "3",
-      "nombre": "Carlos Gómez",
-      "destino": "Bolivia",
-      "idioma": [
+      "name": "Carlos Gómez",
+      "destination": "Bolivia",
+      "language": [
         "español",
         "inglés",
         "portugués"
       ],
-      "especializacion": [
+      "specialization": [
         "aventura",
         "ecoturismo"
       ],
-      "disponibilidad": "Disponible",
-      "valoracion": 4.5,
-      "precio": "$60 por día",
-      "experiencia": "Guía experimentado en aventuras al aire libre y ecoturismo en diversas regiones de Bolivia.",
-      "foto": ".jpg"
+      "availability": "Disponible",
+      "rate": 4.5,
+      "price": "$60 por día",
+      "experience": "Guía experimentado en aventuras al aire libre y ecoturismo en diversas regiones de Bolivia.",
+      "picture": ".jpg"
     }
   ]
 }
