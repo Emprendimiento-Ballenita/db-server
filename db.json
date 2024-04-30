@@ -1,0 +1,60 @@
+{
+  "guides": [
+    {
+      "id": "1",
+      "name": "Juan Pérez",
+      "destination": "Cusco, Perú",
+      "language": [
+        "español",
+        "inglés"
+      ],
+      "specialization": [
+        "senderismo",
+        "cultura inca"
+      ],
+      "availability": "Disponible",
+      "rate": 4.7,
+      "price": "$50 por día",
+      "experience": "Guía turístico con más de 5 años de experiencia en la región andina, especializado en rutas de senderismo y cultura inca.",
+      "picture": ".jpg"
+    },
+    {
+      "id": "2",
+      "name": "María López",
+      "destination": "Machu Picchu, Perú",
+      "language": [
+        "español",
+        "inglés",
+        "francés"
+      ],
+      "specialization": [
+        "historia",
+        "arqueología"
+      ],
+      "availability": "No disponible hasta octubre",
+      "rate": 4.9,
+      "price": "$80 por día",
+      "experience": "Arqueóloga profesional con experiencia en la investigación de sitios arqueológicos, incluyendo Machu Picchu.",
+      "picture": ".jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Carlos Gómez",
+      "destino": "Bolivia",
+      "idioma": [
+        "español",
+        "inglés",
+        "portugués"
+      ],
+      "especializacion": [
+        "aventura",
+        "ecoturismo"
+      ],
+      "disponibilidad": "Disponible",
+      "valoracion": 4.5,
+      "precio": "$60 por día",
+      "experiencia": "Guía experimentado en aventuras al aire libre y ecoturismo en diversas regiones de Bolivia.",
+      "foto": ".jpg"
+    }
+  ]
+}
