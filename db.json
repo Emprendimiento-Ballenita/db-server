@@ -16,7 +16,7 @@
       "rate": 4.7,
       "price": "$50 por día",
       "experience": "Guía turístico con más de 5 años de experiencia en la región andina, especializado en rutas de senderismo y cultura inca.",
-      "picture": ".jpg"
+      "picture": "https://cdn.discordapp.com/attachments/1226580112670064641/1234886974909710447/Z3XWGDDV3ZC4XLEKQLMY2ARZXE.png?ex=66325d9d&is=66310c1d&hm=11848c83af3814d832ea4920d2e9bc63227c8c35b90a3cfd96524f95a8a8c898&"
     },
     {
       "id": "2",
@@ -35,7 +35,7 @@
       "rate": 4.9,
       "price": "$80 por día",
       "experience": "Arqueóloga profesional con experiencia en la investigación de sitios arqueológicos, incluyendo Machu Picchu.",
-      "picture": ".jpg"
+      "picture": "https://cdn.discordapp.com/attachments/1226580112670064641/1234886629240340520/coverblog_dia-internacional-del-turismo.png?ex=66325d4b&is=66310bcb&hm=d6258f05b5cb9ee68d11567844f8aac3821e039e6689e417108b7952c11012bf&"
     },
     {
       "id": "3",
@@ -54,7 +54,7 @@
       "rate": 4.5,
       "price": "$60 por día",
       "experience": "Guía experimentado en aventuras al aire libre y ecoturismo en diversas regiones de Bolivia.",
-      "picture": ".jpg"
+      "picture": "https://cdn.discordapp.com/attachments/1226580112670064641/1234886922103685182/efrain-1.png?ex=66325d91&is=66310c11&hm=7aae7be1f7eb2fc6942e7201a7cd5d685dacff1ca7956516d9fe10ef278ca4ef&"
     }
   ]
 }
